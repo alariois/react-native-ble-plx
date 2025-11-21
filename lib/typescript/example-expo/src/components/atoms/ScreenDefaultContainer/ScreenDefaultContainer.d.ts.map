@@ -1,0 +1,1 @@
+{"version":3,"file":"ScreenDefaultContainer.d.ts","sourceRoot":"","sources":["../../../../../../../example-expo/src/components/atoms/ScreenDefaultContainer/ScreenDefaultContainer.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAA;AAGzB,MAAM,MAAM,2BAA2B,GAAG;IACxC,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAA;CAC1B,CAAA;AAED,wBAAgB,sBAAsB,CAAC,EAAE,QAAQ,EAAE,EAAE,2BAA2B,qBAE/E"}

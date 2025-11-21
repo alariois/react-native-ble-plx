@@ -38,7 +38,7 @@
     "docs": "documentation build src/index.js -o docs --config documentation.yml -f html",
     "typecheck": "tsc --noEmit",
     "lint": "flow && eslint \"**/*.{js,ts,tsx}\" && documentation lint index.js && yarn typecheck",
-    "prepack": "bob build",
+    "prepack": "echo prepack skipped",
     "release": "release-it",
     "example": "yarn --cwd example",
     "build:android": "cd example/android && ./gradlew assembleDebug --no-daemon --console=plain -PreactNativeArchitectures=arm64-v8a",

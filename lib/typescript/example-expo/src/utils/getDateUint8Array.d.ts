@@ -1,0 +1,2 @@
+export declare const getDateUint8Array: (year: number, month: number, day: number, hour: number, minute: number, second: number) => Uint8Array<ArrayBuffer>;
+//# sourceMappingURL=getDateUint8Array.d.ts.map

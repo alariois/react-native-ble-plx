@@ -1,0 +1,6 @@
+import { AppText } from '../AppText/AppText';
+export declare const Container: import("styled-components/dist/types").IStyledComponentBase<"web", import("styled-components").FastOmit<Omit<import("react-native").TouchableOpacityProps & import("react").RefAttributes<import("react-native").View>, "ref"> & {
+    ref?: ((instance: import("react-native").View | null) => void | import("react").DO_NOT_USE_OR_YOU_WILL_BE_FIRED_CALLBACK_REF_RETURN_VALUES[keyof import("react").DO_NOT_USE_OR_YOU_WILL_BE_FIRED_CALLBACK_REF_RETURN_VALUES]) | import("react").RefObject<import("react-native").View> | null | undefined;
+}, never>> & string & Omit<import("react").ForwardRefExoticComponent<import("react-native").TouchableOpacityProps & import("react").RefAttributes<import("react-native").View>>, keyof import("react").Component<any, {}, any>>;
+export declare const StyledText: import("styled-components/dist/types").IStyledComponentBase<"web", import("styled-components").FastOmit<import("react-native").TextProps, never>> & string & Omit<typeof AppText, keyof import("react").Component<any, {}, any>>;
+//# sourceMappingURL=Button.styled.d.ts.map
