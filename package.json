@@ -38,6 +38,7 @@
     "docs": "documentation build src/index.js -o docs --config documentation.yml -f html",
     "typecheck": "tsc --noEmit",
     "lint": "flow && eslint \"**/*.{js,ts,tsx}\" && documentation lint index.js && yarn typecheck",
+    "prepack-actually": "bob build",
     "prepack": "echo prepack skipped",
     "release": "release-it",
     "example": "yarn --cwd example",
