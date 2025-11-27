@@ -1,3 +1,0 @@
-import { TextInput } from 'react-native';
-export declare const StyledTextInput: import("styled-components/dist/types").IStyledComponentBase<"web", import("styled-components").FastOmit<import("react-native").TextInputProps & import("react").RefAttributes<TextInput>, never>> & string & Omit<typeof TextInput, keyof import("react").Component<any, {}, any>>;
-//# sourceMappingURL=AppTextInput.styled.d.ts.map

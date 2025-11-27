@@ -1,4 +1,0 @@
-import { FlatList, View } from 'react-native';
-export declare const DropDown: import("styled-components/dist/types").IStyledComponentBase<"web", import("styled-components").FastOmit<import("react-native").ViewProps & import("react").RefAttributes<View>, never>> & string & Omit<typeof View, keyof import("react").Component<any, {}, any>>;
-export declare const DevicesList: import("styled-components/dist/types").IStyledComponentBase<"web", import("styled-components").FastOmit<import("react-native").FlatListProps<unknown> & import("react").RefAttributes<FlatList<unknown>>, never>> & string & Omit<typeof FlatList, keyof import("react").Component<any, {}, any>>;
-//# sourceMappingURL=DashboardScreen.styled.d.ts.map
