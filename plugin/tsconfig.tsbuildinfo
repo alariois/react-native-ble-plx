@@ -1,0 +1,1 @@
+{"root":["./src/withBLE.ts","./src/withBLEAndroidManifest.ts","./src/withBLEBackgroundModes.ts","./src/withBluetoothPermissions.ts"],"version":"5.7.2"}
